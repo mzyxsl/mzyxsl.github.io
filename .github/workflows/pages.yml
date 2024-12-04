@@ -29,8 +29,6 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-      - name: clean
-        run: hexo clean
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
