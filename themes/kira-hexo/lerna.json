@@ -1,8 +1,0 @@
-{
-  "packages": [
-    "packages/create-kira-hexo",
-    "packages/kira-hexo"
-  ],
-  "version": "fixed",
-  "npmClient": "pnpm"
-}
