@@ -109,7 +109,7 @@ giscus:
     repo: mzyxsl/mzyxsl.github.io # 存放评论的 discus 所在的 repo
     repoID: R_kgDONYGTTg # GitHub repo ID
     category: General # 选择新 discussions 所在的分类
-    categoryID: DIC_kwDONYGTTs4Ck4Sc # 分类 ID
+    categoryID: DIC_kwDONYGTTs4Ck4Sd # 分类 ID
     mapping: pathname # pathname, url, title, og:title, specific, number
     # term: # abc 123 # specific | number
     theme: light
