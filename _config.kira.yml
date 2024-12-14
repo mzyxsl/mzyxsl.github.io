@@ -95,17 +95,17 @@ color: # 配色方案，从first到seventh为优先级为1-7的颜色，默认�
 
 # 评论区
 gitalk:
-    active: false # 是否启用 gitalk
-    admin: -your github username- # 拥有对该repo进行操作的 GitHub username
-    owner: -your github username- # 持有该 repo 的 GitHub username
-    repo: -issue repo name- # 存放评论的 issue 所在的 repo
-    clientID: -id- # GitHub Client ID
-    clientSecret: -key- # GitHub Client Secret
-    title: '' # Gitalk Issue Title
+    active: true # 是否启用 gitalk
+    admin: mzyxsl # 拥有对该repo进行操作的 GitHub username
+    owner: mzyxsl # 持有该 repo 的 GitHub username
+    repo: mzyxsl.github.io # 存放评论的 issue 所在的 repo
+    clientID: Ov23li0PUKXrILqQv9R6 # GitHub Client ID
+    clientSecret: b8b814234aa3085871cd0c05831640d2ebe7978b # GitHub Client Secret
+    title: '评论' # Gitalk Issue Title
 # 你们不要在这里填我的 giscus 配置项，不然你们博客下的评论会全部跑到我的仓库下面……
 # https://giscus.app/zh-CN 可以在这个网站上手动选择配置填到下方对应位置
 giscus:
-    active: true # 是否启用 giscus
+    active: false # 是否启用 giscus
     repo: mzyxsl/mzyxsl.github.io # 存放评论的 discus 所在的 repo
     repoID: R_kgDONYGTTg # GitHub repo ID
     category: Announcements # 选择新 discussions 所在的分类
