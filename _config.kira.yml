@@ -26,12 +26,13 @@ menu:
     文章归档:
         - /archive.html
         - icon-container
+    友情链接:
+        - /friends.html
+        - icon-team
     关于本人:
         - /about.html
         - icon-user
-    我的朋友:
-        - /friends.html
-        - icon-team
+    
 
 widgets:
     - social
