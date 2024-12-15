@@ -132,6 +132,10 @@ friends:
     #   link: <跳转连接>
     #   name: <名称>
 
+     - avatar: https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg
+       link: https://www.mbrjun.cn/
+       name: MBRjun-Blog
+
 # 可复制的代码块
 copyableCodeblock: true
 
