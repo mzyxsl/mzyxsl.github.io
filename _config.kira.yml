@@ -128,7 +128,7 @@ sidebar: ''
 #     - custom
 
 # 友链配置
-friends:
+links:
     # - avatar: <友链缩略图>
     #   link: <跳转连接>
     #   name: <名称>
