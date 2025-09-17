@@ -15,10 +15,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           submodules: recursive
-      - name: Use Node.js v22.11.0
+      - name: Use Node.js
         uses: actions/setup-node@v5
         with:
-          node-version: "v22.11.0"
+          node-version: "22"
       - name: Cache NPM dependencies
         uses: actions/cache@v4
         with:
