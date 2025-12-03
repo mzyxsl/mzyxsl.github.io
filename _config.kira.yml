@@ -1,12 +1,12 @@
 # 友情链接在132行
 
-avatar: https://www.mzyxsl.cn/avatar.webp # 网站 Logo
+avatar: https://www.mzyxsl.com/avatar.webp # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
     path: https://kira.host/assets/Pictures/Others/-f0d5cc34c6e5aa7_compressed.jpg
     width: 1280
     height: 720
 favicon:
-    href: https://img.mzyxsl.cn/Pictures/b_0d77e44d934f94685e8b9f5823899112.jpg # 网站图标
+    href: https://www.mzyxsl.com/avatar.webp # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
